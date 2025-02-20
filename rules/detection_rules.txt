@@ -1,0 +1,4 @@
+TCP,80,ALERT: Possible HTTP Flood
+TCP,23,ALERT: Possible Telnet Attack
+UDP,53,ALERT: Possible DNS Flood
+TCP,22,ALERT: Possible Brute Force SSH Attack
